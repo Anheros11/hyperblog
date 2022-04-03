@@ -1,7 +1,0 @@
-print ("Mi primera linea de codigo")
-print ("Segunda Linea de codigo")
-print ("Mi tercera linea de codigo")
-print ("Mi cuarta linea de codigo, agregare la quinta")
-print("Mi quinta linea de codigo")
-print ("Ultimo commit para empezar nueva rama")
-print ("depues de modificar la rama cabecera realizo esta linea en el master para unir ambas ramas")
