@@ -4,4 +4,10 @@ Andres Hernandez Osma,tengo 35 y naci en Cali, Colombia
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 2
+
+Master 1
+>>>>>>> 31e69bf (Experimento 2)
